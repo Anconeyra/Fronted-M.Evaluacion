@@ -1,4 +1,4 @@
-# 🚀 **MOSS Coevaluación: Potencia el Aprendizaje Colaborativo con Evaluaciones Interactivas (Frontend)**
+# 🚀 **MOSS Coevaluación: Potencia el Aprendizaje Colaborativo con Evaluaciones Interactivas **
 
 <p align="center">
   <img src="public/MOSS.png" alt="Logo de MOSS Coevaluación" width="300px">
@@ -20,3 +20,5 @@
 ### 1. Ya deberías tener lanzado el backend que es:
 
 El backend de la aplicación debe estar ejecutándose antes de proceder con el frontend. Para lanzar el backend, visita el siguiente repositorio: [Backend M.Evaluacion](https://github.com/Anconeyra/Backend-M.Evaluacion).
+
+
