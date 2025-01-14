@@ -62,4 +62,4 @@ La aplicación **MOSS Coevaluación** permite:
 - **Gestión de pruebas**: Ver, crear, editar y eliminar canales.
 - **Gestión de jugadores**: Ver y eliminar jugadores.
 - **Resultados**: Consultar los resultados de cada jugador y de cada grupo del canal.
-- **Jugar**: Iniciar y asignar a los estudiantes en cada grupo y calificar a cada uno.
+- **Jugar**: Iniciar y asignar a los estudiantes en cada grupo y calificar a cada uno, esto gracias a la votación de cada estudiante y una rúbrica puesta por el docente.
